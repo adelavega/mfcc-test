@@ -1,2 +1,2 @@
-git+https://github.com/PsychoinformaticsLab/pliers.git@timbre_pitch#egg=pliers
+-e git+https://github.com/PsychoinformaticsLab/pliers.git@timbre_pitch#egg=pliers
 librosa
